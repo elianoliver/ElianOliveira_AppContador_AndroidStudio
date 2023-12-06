@@ -2,10 +2,12 @@
 
 Esse código em `SobreActivity.java` basicamente pega o valor do contador enviado pela `MainActivity` e o exibe em um elemento de texto na tela da `SobreActivity`. Isso permite que o usuário veja o valor do contador quando navega para a segunda atividade.
 
-<img src="img.jpg" 
+<p align="center">
+    <img src="img.jpg" 
         alt="Picture" 
         width="500" 
         style="display: block; margin: 0 auto" />
+p>
 
 ### MainActivity.java
 

@@ -7,7 +7,7 @@ Esse código em `SobreActivity.java` basicamente pega o valor do contador enviad
         alt="Picture" 
         width="500" 
         style="display: block; margin: 0 auto" />
-p>
+/p>
 
 ### MainActivity.java
 
